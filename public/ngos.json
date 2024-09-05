@@ -1,0 +1,19 @@
+
+[
+    {
+      "id": 1,
+      "name": "Save the Children",
+      "description": "An NGO focusing on improving the lives of children through education and healthcare."
+    },
+    {
+      "id": 2,
+      "name": "World Wildlife Fund",
+      "description": "An organization dedicated to wildlife conservation and reducing human impact on the environment."
+    },
+    {
+      "id": 3,
+      "name": "Doctors Without Borders",
+      "description": "An international medical humanitarian organization providing emergency aid."
+    }
+  ]
+  
